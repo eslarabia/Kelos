@@ -61,7 +61,6 @@ body {
 }
 
 .container .logo {
-    font-family: fangsong;
     font-size: 28px;
 }
 
@@ -212,7 +211,6 @@ body {
 
 .container-about h1 {
     font-size: 38px;
-    font-family: fangsong;
     color: #184255;
 }
 
@@ -245,7 +243,6 @@ body {
 
 .container-service h3 {
     font-size: 21px;
-    font-family: fangsong;
     color: #184255;
     padding-top: 14px;
 }
@@ -299,7 +296,7 @@ body {
 .content span {
     font-family: fangsong;
     color: #184255;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .content h1 {
